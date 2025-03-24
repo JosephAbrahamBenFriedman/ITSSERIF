@@ -1,2 +1,3 @@
-# ITSSERIF
-A monospaced ASCII serif font.
+I love [DSE Typewriter](https://github.com/dse/dse-typewriter-font/), but I don't accept its licence, because 'The fonts and derivatives, however, cannot be released under any other type of license.', I think everyone modified a fontshould have rights to select the licence to release the modification.
+
+Then, I found [a manual of MIT's Incompatible Timesharing System](https://bitsavers.org/pdf/mit/ai/ai_600dpi/AI_161A_ITS_1.5_Reference_Manual_Jul1969.pdf), in mostly pages, the printed characters seems displayed in the same font, and the glyphs look like DSE Typewriter. I think if I created a font has these glyphs, there will be no conflictions between the font and anyone (the brand or the manufacturer, of typewriter), and I am very want to use glyphs of DSE Typewriter. So I decided to scan glyphs of the characters in the manual, create a font including these glyphs, make the font becomes the alternation of DSE Typewriter. I offered [FreeConvert](https://www.freeconvert.com/pdf-to-png) to convert pages of the manual to PNG files, scanned PNG files with High-Logic FontCreator 15 Professional, and created the font.
